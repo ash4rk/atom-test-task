@@ -1,3 +1,4 @@
 [submodule "speedcube"]
 	path = speedcube
 	url = git@github.com:ash4rk/speedcube.git
+	branch = main
