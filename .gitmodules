@@ -2,3 +2,7 @@
 	path = speedcube
 	url = git@github.com:ash4rk/speedcube.git
 	branch = main
+[submodule "sphere-around-the-campfire"]
+	path = sphere-around-the-campfire
+	url = git@github.com:ash4rk/sphere-around-the-campfire.git
+	branch = main
