@@ -48,4 +48,4 @@ git clone --recursive https://github.com/ash4rk/atom-test-task
 # Комментарии
 Записал небольшой скринкаст с комментариями по гит истории, проектам и коду:
 
-https://youtu.be/OYbETa8RcEM
+https://youtu.be/ilK3gfsvYvQ
