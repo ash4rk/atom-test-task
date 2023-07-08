@@ -15,7 +15,7 @@ git clone --recursive https://github.com/ash4rk/atom-test-task
 # Превью
 Первое задание:
 <p align="center"> 
-<h1 align="center"><img src="https://github.com/ash4rk/atom-test-task/assets/30512240/941d3634-685f-48a8-823a-a8216a65414f" height="500"/></h1>
+<h1 align="center"><img src="https://github.com/ash4rk/atom-test-task/assets/30512240/64522579-e3bd-4e04-b0aa-f54f1956f606" height="500"/></h1>
 <p align="center">
 
 Второе задание:
